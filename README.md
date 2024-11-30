@@ -21,7 +21,7 @@ RESTful APIs using for managing an e-commerce platform, built with FastAPI and M
 ### Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/<your-username>/ecommerce-service.git
+    git clone git@github.com:Amitheshkn/e_commerce_restful_api.git
     cd e_commerce_restful_api
     ```
 
